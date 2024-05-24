@@ -1,8 +1,8 @@
-# DTools-Raider# DTools 
+# DTools-Raider
 <img src="screenshots/start.png">
 
 
-## 🕶 ATOMIC Tool is a professional attacking tool that support abnormal options like:
+## 🕶 DTool is a professional attacking tool that support abnormal options like:
 
 - Multi webhook spammer
 - Multi webhook deleter
@@ -14,12 +14,12 @@
 
 🔗 Clone the repo by using this link
 ```bash
-git clone https://github.com/M-logique/Atomic
+git clone https://github.com/kisueer/DTools-Raider
 ```
 
 ♦ Open the project in your teminal
 ```bash
-cd Atomic
+cd DTools-main
 ```
 
 ⚡ Install Python packages by using pip
